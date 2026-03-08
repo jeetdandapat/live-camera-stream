@@ -238,7 +238,15 @@ Dashboard receives video
 ↓
 Live stream appears on laptop
 
-<video controls src="Screen Recording 2026-03-08 132649.mp4" title="Title"></video>
+
+# 🎥 Project Demo Video
+
+You can watch the full working demo of the **Live Camera Streaming Project** here:
+
+👉 https://drive.google.com/file/d/1oY1uoEhyLwaXDTAJKpdNIBrrz0h9KSOX/view?usp=drive_link
+
+
+
 
 ![alt text](<Screenshot 2026-03-08 141815.png>)
 
@@ -247,3 +255,6 @@ Live stream appears on laptop
 ![alt text](<WhatsApp Image 2026-03-08 at 2.19.28 PM (1).jpeg>)
 
 ![alt text](<Screenshot 2026-03-08 141900.png>)
+
+
+
